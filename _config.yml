@@ -7,8 +7,4 @@ Distributed by an <a href=\"https://github.com/44213/master/LICENSE.txt\">MIT li
 #
 # Supports true (default) or false/nil
 heading_anchors: true
----
-layout: default
-title: Customization
-nav_order: 4
----
+
