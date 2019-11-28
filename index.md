@@ -1,4 +1,4 @@
 # SpeechControl 
 
-Welcome to the Philips Speech Control Tecnical Documentation
+Welcome to the Philips Speech Control Technical Documentation
 
