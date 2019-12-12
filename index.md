@@ -1,9 +1,3 @@
----
-layout: default
-title: Introducton
-nav_order: 1
----
-
 # Introduction
 
 Philips SpeechControl has been designed to control different applications on Windows computers with a Philips SpeechMike. You can load the latest firmware version into the active device and manage all the previous firmware versions.
